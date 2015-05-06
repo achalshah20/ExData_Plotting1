@@ -1,4 +1,4 @@
-## Introduction
+## Introduction of Problem
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
@@ -34,9 +34,6 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
-
-
 
 
 When loading the dataset into R, please consider the following:
